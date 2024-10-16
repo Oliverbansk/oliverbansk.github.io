@@ -29,5 +29,6 @@ I am a final-year undergraduate at Yuanpei College, Peking University, advised b
 I am fortunate to have been introduced to academic research by Dr. Xiaoxuan Ma and Dr. Wentao Zhu, and I am grateful for the opportunity to collaborate closely with Prof. Yunzhu Li at Columbia University.
 
 <!-- I am passionate about 3D vision, robotics, and human-centered AI, with particular interests in developing efficient & generalizable solutions for fundamental embodied vision tasks (such as pose estimation), and applying advances in 3D vision to enhance robot perception, manipulation, and human-robot interaction. I aim to further expand my knowledge in these fields through surveys and hands-on experiments. -->
+
 I am passionate about 3D vision, robotics, and human-centered AI, with a particular interest in applying advances in 3D vision to enhance robot perception, manipulation, and human-robot interaction. I aim to further expand my knowledge in these fields through surveys and hands-on experiments.
 
