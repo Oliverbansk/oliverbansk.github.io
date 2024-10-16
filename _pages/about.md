@@ -24,11 +24,11 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a final-year undergraduate at Yuanpei College, Peking University, advised by Prof. Yizhou Wang at the Center on Frontiers of Computing Studies. 
+I am a final-year undergraduate [Peking University](https://english.pku.edu.cn/), advised by Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm).
 
-I am fortunate to have been introduced to academic research by Dr. Xiaoxuan Ma and Dr. Wentao Zhu, and I am grateful for the opportunity to collaborate closely with Prof. Yunzhu Li at Columbia University.
+I am fortunate to have been introduced to academic research by [Xiaoxuan Ma](https://shirleymaxx.github.io/) and [Wentao Zhu](https://wentao.live/about.html) at [Center on Frontiers of Computing Studies](https://cfcs.pku.edu.cn/), and I am grateful for the opportunity to collaborate closely with Prof. [Yunzhu Li](https://yunzhuli.github.io/) at [Columbia University](https://www.columbia.edu/).
 
 <!-- I am passionate about 3D vision, robotics, and human-centered AI, with particular interests in developing efficient & generalizable solutions for fundamental embodied vision tasks (such as pose estimation), and applying advances in 3D vision to enhance robot perception, manipulation, and human-robot interaction. I aim to further expand my knowledge in these fields through surveys and hands-on experiments. -->
 
-I am passionate about 3D vision, robotics, and human-centered AI, with a particular interest in applying advances in 3D vision to enhance robot perception, manipulation, and human-robot interaction. I aim to further expand my knowledge in these fields through surveys and hands-on experiments.
+I am passionate about **3D Vision**, **Robotics**, and **Human-centered AI**, with a particular interest in applying advances in 3D vision to enhance robot perception, manipulation, and human-robot interaction. I aim to further expand my knowledge in these fields through surveys and hands-on experiments.
 
