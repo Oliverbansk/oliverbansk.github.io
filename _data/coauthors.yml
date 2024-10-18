@@ -32,3 +32,23 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"zhu":
+  - firstname: ["Wentao", "W."]
+    url: https://wentao.live/about.html
+
+"ma":
+  - firstname: ["Xiaoxuan", "X."]
+    url: https://shirleymaxx.github.io/
+
+"wang":
+  - firstname: ["Yizhou", "Y."]
+    url: https://idm.pku.edu.cn/info/1017/1037.htm
+
+"qin":
+  - firstname: ["Jason", "J."]
+    url: https://asonin.github.io/2022/09/23/intro/
+
+"fan":
+  - firstname: ["Juling", "J."]
+    url: https://github.com/Julyfan77
