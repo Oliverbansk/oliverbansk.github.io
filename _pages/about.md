@@ -32,6 +32,6 @@ I am fortunate to have been introduced to academic research by [Xiaoxuan Ma](htt
 
 I am passionate about **3D Vision**, **Robotics**, and **Human-centered AI**, particularly interested in crafting efficient & generalizable solutions for fundamental 3D vision tasks in embodied applications (e.g. robot pose estimation) while applying advances from vision community to enhance robot perception, manipulation, and human-robot interaction.
 
-I have gained substantial experience in these fields and continue to expand my knowledge through comprehensive surveys and hands-on experiments.
+I have gained experience and am actively expanding my knowledge in these fields through comprehensive surveys and hands-on experiments.
 
 
