@@ -55,8 +55,8 @@
 
 "qiao":
   - firstname: ["Yu"]
-  - url: http://www.pami.sjtu.edu.cn/yuqiao
+    url: http://www.pami.sjtu.edu.cn/yuqiao
 
 "samaras":
   - firstname: ["Dimitris"]
-  - url: https://www3.cs.stonybrook.edu/~samaras/
+    url: https://www3.cs.stonybrook.edu/~samaras/
