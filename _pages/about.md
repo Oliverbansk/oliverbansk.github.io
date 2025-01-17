@@ -30,6 +30,6 @@ I am fortunate to have been introduced to academic research by [Xiaoxuan Ma](htt
 
 <!-- I am passionate about 3D vision, robotics, and human-centered AI, with particular interests in developing efficient & generalizable solutions for fundamental embodied vision tasks (such as pose estimation), and applying advances in 3D vision to enhance robot perception, manipulation, and human-robot interaction. I aim to further expand my knowledge in these fields through surveys and hands-on experiments. -->
 
-I am passionate about **3D Vision**, **Robotics**, and **Human-centered AI**, particularly interested in crafting efficient & generalizable solutions for fundamental 3D vision tasks in embodied applications (e.g. [robot pose estimation](https://oliverbansk.github.io/Holistic-Robot-Pose/)) while applying advances from vision community to enhance robot perception, manipulation, and human-robot interaction.
+I am passionate about **3D Vision** and **human-to-robot learning**.
 
 <!-- I have gained experience and am actively expanding my knowledge in these fields through comprehensive surveys and hands-on experiments. -->
