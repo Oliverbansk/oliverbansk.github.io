@@ -28,10 +28,8 @@ I am a final-year undergraduate at [Peking University](https://english.pku.edu.c
 
 I am previleged to work closely with Prof. [Yunzhu Li](https://yunzhuli.github.io/) at [Columbia University](https://www.columbia.edu/) and I am fortunate to have been introduced to academic research by [Xiaoxuan Ma](https://shirleymaxx.github.io/) and [Wentao Zhu](https://wentao.live/about.html) at [Center on Frontiers of Computing Studies](https://cfcs.pku.edu.cn/).
 
-<!-- I am passionate about 3D vision, robotics, and human-centered AI, with particular interests in developing efficient & generalizable solutions for fundamental embodied vision tasks (such as pose estimation), and applying advances in 3D vision to enhance robot perception, manipulation, and human-robot interaction. I aim to further expand my knowledge in these fields through surveys and hands-on experiments. -->
+<!-- I am passionate about 3D vision, robotics, and human-centered AI, with particular interests in developing efficient & generalizable solutions for fundamental embodied vision tasks (such as pose estimation), and applying advances in 3D vision to enhance robot perception, manipulation, and human-robot interaction. -->
 
 My research interest is mainly in **Embodied AI**, particularly: 
   1. Developing efficient and generalizable solutions for fundamental 3D perception tasks (e.g. [robot pose estimation](https://oliverbansk.github.io/Holistic-Robot-Pose/)).
   2. Facilitating robust and large-scale learning for robot manipulation and human-robot interaction.
-
-<!-- I have gained experience and am actively expanding my knowledge in these fields through comprehensive surveys and hands-on experiments. -->
