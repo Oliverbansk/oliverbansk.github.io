@@ -33,5 +33,5 @@ I am fortunate to have been introduced to academic research by [Xiaoxuan Ma](htt
 
 My research interest lies mainly in **3D Vision** and **Embodied AI**. 
 
-  <!-- 1. Developing efficient and generalizable solutions for fundamental 3D perception tasks.
-  2. Facilitating robust large-scale learning for robot manipulation and human-robot interaction. -->
+<!-- 1. Developing efficient and generalizable solutions for fundamental 3D perception tasks. 
+2. Facilitating robust large-scale learning for robot manipulation and human-robot interaction. -->
