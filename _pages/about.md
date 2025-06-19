@@ -26,10 +26,12 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am a final-year undergraduate at [Peking University](https://english.pku.edu.cn/), advised by Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm).
 
-I am previleged to work closely with Prof. [Yunzhu Li](https://yunzhuli.github.io/) at [Columbia University](https://www.columbia.edu/) and I am fortunate to have been introduced to academic research by [Xiaoxuan Ma](https://shirleymaxx.github.io/) and [Wentao Zhu](https://wentao.live/about.html) at [Center on Frontiers of Computing Studies](https://cfcs.pku.edu.cn/).
+<!-- I am previleged to work closely with Prof. [Yunzhu Li](https://yunzhuli.github.io/) at [Columbia University](https://www.columbia.edu/) and  -->
+I am fortunate to have been introduced to academic research by [Xiaoxuan Ma](https://shirleymaxx.github.io/) and [Wentao Zhu](https://wentao.live/about.html) at [Center on Frontiers of Computing Studies](https://cfcs.pku.edu.cn/).
 
 <!-- I am passionate about 3D vision, robotics, and human-centered AI, with particular interests in developing efficient & generalizable solutions for fundamental embodied vision tasks (such as pose estimation), and applying advances in 3D vision to enhance robot perception, manipulation, and human-robot interaction. -->
 
 My research interest lies mainly in **3D Vision** and **Embodied AI**. 
+
   <!-- 1. Developing efficient and generalizable solutions for fundamental 3D perception tasks.
   2. Facilitating robust large-scale learning for robot manipulation and human-robot interaction. -->
