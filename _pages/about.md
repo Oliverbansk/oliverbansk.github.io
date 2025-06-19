@@ -30,6 +30,6 @@ I am previleged to work closely with Prof. [Yunzhu Li](https://yunzhuli.github.i
 
 <!-- I am passionate about 3D vision, robotics, and human-centered AI, with particular interests in developing efficient & generalizable solutions for fundamental embodied vision tasks (such as pose estimation), and applying advances in 3D vision to enhance robot perception, manipulation, and human-robot interaction. -->
 
-My research interest lies mainly in **Embodied AI**, particularly: 
-  1. Developing efficient and generalizable solutions for fundamental 3D perception tasks.
-  2. Facilitating robust and large-scale learning for robot manipulation and human-robot interaction.
+My research interest lies mainly in **3D Vision** and **Embodied AI**. 
+  <!-- 1. Developing efficient and generalizable solutions for fundamental 3D perception tasks.
+  2. Facilitating robust large-scale learning for robot manipulation and human-robot interaction. -->
