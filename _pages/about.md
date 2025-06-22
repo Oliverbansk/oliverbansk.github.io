@@ -24,6 +24,8 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
+How to pronounce my name: Sh-kwhen Ban :) I also go by Oliver!
+
 I am a final-year undergraduate at [Peking University](https://english.pku.edu.cn/), advised by Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm).
 
 <!-- I am previleged to work closely with Prof. [Yunzhu Li](https://yunzhuli.github.io/) at [Columbia University](https://www.columbia.edu/) and  -->
