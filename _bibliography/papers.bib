@@ -7,28 +7,29 @@
 @article{thea,
     author={Wang, Qi and Wang, Tianyi and Li, Chengyang and Ban, Shikun and Chen, Yurun and Ge, Yizhong and Qin, Jason and Li, Chengtai and Zhu, Wentao},
     title={Towards the Harness of Embodied Agents},
-    abstract={This work studies how the software harness used by coding agents can be adapted to embodied agents operating in the physical world. The proposed system, Thea, organizes robot capabilities as callable tools and uses a persistent scene graph to represent world state. It also evaluates action outcomes through exit-code-like signals that determine whether execution should stop, continue, or recover from failure. Experiments show that this closed-loop design supports long-horizon tasks across multiple robot platforms.},
+    abstract={The success of coding agents has established the harness as a paradigm: what an agent achieves depends not on the model alone, but on the infrastructure around it. We ask whether the same paradigm extends to embodied agents in the physical world. We present Thea, a harness in which an agentic loop orchestrates robot capabilities, each wrapped as a callable tool. It inherits the core components of coding agents, modified as the physical world requires. The world, however, withholds two abilities that software grants for free: reading the state of the world, and judging the outcome of an action. To bridge these gaps, Thea introduces Scene Graph as Context, a persistent, symbolic representation of the world, and Evaluation as Exit Codes, which detects when an action should terminate, judges whether it succeeded, and on failure diagnoses the cause. Together they close the loop between the agent and the physical world. Rich behaviors then emerge from the composition of tools, and the closed loop carries long-horizon tasks to completion in real environments.},
     website={https://eit-hai.github.io/thea/index.html},
-    arxiv={2608.11246},
     video={https://www.youtube.com/watch?v=Sm9jFmfnOF0},
     code={https://github.com/EIT-HAI/Thea},
-    journal={arXiv preprint},
+    journal={Technical Report},
     year={2026},
-    preview={https://eit-hai.github.io/thea/assets/framework_combined.png},
+    preview={thea_framework.png},
+    priority={3},
     selected={true}
 }
 
 @article{humanoidselfmodel,
     author={Chen, Yurun and Gao, Tianyuan and Ge, Yizhong and Ban, Shikun and Wang, Yizhou and Xiong, Hongkai and Zeng, Wenjun and Zhu, Wentao},
     title={Proprioceptive-visual correspondence enables self-other distinction in humanoid robots},
-    abstract={This work enables a humanoid robot to distinguish its own body from humans and morphologically similar robots using proprioceptive-visual correspondence, without identity labels or a predefined kinematic model. The resulting self-identification provides supervision for learning a pose-conditioned 3D body occupancy model. The learned self-model supports target reaching, collision-aware motion planning, and human-to-robot motion retargeting in real-world experiments.},
+    abstract={Distinguishing self from others is a prerequisite for social intelligence, yet humanoid robots that increasingly share workspaces with humans still lack this ability. Here we show that a humanoid robot can learn self-other distinction from proprioceptive-visual correspondence, without any identity labels or kinematic models. Once established, this distinction bootstraps a predictive self-model that maps joint configurations to three-dimensional body occupancy, capturing how the robot's body changes with action. In multi-agent scenes involving humans or morphologically identical robots, the system reliably identifies itself, learns a 3D self-model, and supports downstream tasks including target reaching, collision-aware motion planning, and human-to-robot motion retargeting. Together, these results outline a route toward bodily self-representation in robots that act and coordinate alongside others in shared physical environments.},
     website={https://euron-zc.github.io/humanoid-self-model/},
     arxiv={2606.13222},
     video={https://www.youtube.com/watch?v=CujBGzS5k-0},
     code={https://github.com/Euron-ZC/Humanoid-self-other-distincton-model},
     journal={arXiv preprint},
     year={2026},
-    preview={https://euron-zc.github.io/humanoid-self-model/static/images/fig1b.jpg},
+    preview={self-model.jpg},
+    priority={4},
     selected={true}
 }
 
@@ -45,6 +46,7 @@
     booktitle = {European Conference on Computer Vision (ECCV)},
     year = {2024},
     preview = {holisticrobotpose.gif},
+    priority={1},
     selected={true}
 }
 
@@ -60,5 +62,6 @@
     booktitle = {IEEE Robotics and Automation Letters (RA-L)},
     year = {2025},
     preview = {humanawarerobot_v1.gif},
+    priority={2},
     selected={true}
 }
