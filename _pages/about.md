@@ -26,7 +26,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 How to pronounce my name: Sh-kwhen Ban :) I also go by Oliver!
 
-I am a first-year master student (MS in Robotics) at the [Robotics Institute](https://www.ri.cmu.edu/), [Carnegie Mellon University](https://www.ri.cmu.edu/), advised by Prof. [Zackory Erickson](https://zackory.com/). Previously, I obtained my bachelor's degree from [Peking University](https://english.pku.edu.cn/). During my undergraduate years, I was previleged to be advised by Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm) and mentored by [Xiaoxuan Ma](https://shirleymaxx.github.io/) and [Wentao Zhu](https://wentao.live/about.html) at [Center on Frontiers of Computing Studies](https://cfcs.pku.edu.cn/).
+I am a first-year master's student (MS in Robotics) at the [Robotics Institute](https://www.ri.cmu.edu/), [Carnegie Mellon University](https://www.ri.cmu.edu/), advised by Prof. [Zackory Erickson](https://zackory.com/). I obtained my bachelor's degree from [Peking University](https://english.pku.edu.cn/), where I was advised by Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm) at the [Center on Frontiers of Computing Studies](https://cfcs.pku.edu.cn/). I was fortunate to work closely with Prof. [Wentao Zhu](https://wentao.live/about.html) at the [Eastern Institute of Technology, Ningbo (EIT)](https://www.eitech.edu.cn/?lang=en), and Dr. [Xiaoxuan Ma](https://shirleymaxx.github.io/).
 
 <!-- , and to have worked closely with Prof. [Yunzhu Li](https://yunzhuli.github.io/). -->
 
