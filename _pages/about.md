@@ -26,7 +26,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 How to pronounce my name: Sh-kwhen Ban :) I also go by Oliver!
 
-I am a first-year master's student (MS in Robotics) at the [Robotics Institute](https://www.ri.cmu.edu/), [Carnegie Mellon University](https://www.ri.cmu.edu/), advised by Prof. [Zackory Erickson](https://zackory.com/). I obtained my bachelor's degree from [Peking University](https://english.pku.edu.cn/), where I was advised by Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm) at the [Center on Frontiers of Computing Studies](https://cfcs.pku.edu.cn/). I was fortunate to work closely with Prof. [Wentao Zhu](https://wentao.live/about.html) at the [Eastern Institute of Technology, Ningbo (EIT)](https://www.eitech.edu.cn/?lang=en), and Dr. [Xiaoxuan Ma](https://shirleymaxx.github.io/).
+I am a second-year master's student (MS in Robotics) at the [Robotics Institute](https://www.ri.cmu.edu/), [Carnegie Mellon University](https://www.ri.cmu.edu/), advised by Prof. [Zackory Erickson](https://zackory.com/).
+
+I obtained my bachelor's degree from [Peking University](https://english.pku.edu.cn/), where I was advised by Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm) at the [Center on Frontiers of Computing Studies](https://cfcs.pku.edu.cn/). I was fortunate to work closely with Prof. [Wentao Zhu](https://wentao.live/about.html) at the [Eastern Institute of Technology, Ningbo (EIT)](https://www.eitech.edu.cn/?lang=en), and Dr. [Xiaoxuan Ma](https://shirleymaxx.github.io/).
 
 <!-- , and to have worked closely with Prof. [Yunzhu Li](https://yunzhuli.github.io/). -->
 
@@ -34,7 +36,7 @@ I am a first-year master's student (MS in Robotics) at the [Robotics Institute](
 
 <!-- I am passionate about 3D vision, robotics, and human-centered AI, with particular interests in developing efficient & generalizable solutions for fundamental embodied vision tasks (such as pose estimation), and applying advances in 3D vision to enhance robot perception, manipulation, and human-robot interaction. -->
 
-My research interest lies mainly in **3D Vision**, **Embodied AI** and **Human-robot Interaction**.
+I am interested in developing intelligent, human-aligned robot agents that understand people and their physical environments, and act safely, robustly, and adaptively in the real world.
 
 <!-- 1. Developing efficient and generalizable solutions for fundamental 3D perception tasks. 
 2. Facilitating robust large-scale learning for robot manipulation and human-robot interaction. -->
