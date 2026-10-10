@@ -178,7 +178,7 @@
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% elsif entry.arxiv_pending %}
-        <a href="#{{ entry.key }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+        <a href="https://oliverbansk.github.io/" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
@@ -205,7 +205,7 @@
       {% elsif entry.video %}
         <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button">Video</a>
       {% elsif entry.video_pending %}
-        <a href="#{{ entry.key }}" class="btn btn-sm z-depth-0" role="button">Video</a>
+        <a href="https://oliverbansk.github.io/" class="btn btn-sm z-depth-0" role="button">Video</a>
       {% endif %}
       {% if entry.blog %}
         <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
@@ -213,7 +213,7 @@
       {% if entry.code %}
         <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
       {% elsif entry.code_pending %}
-        <a href="#{{ entry.key }}" class="btn btn-sm z-depth-0" role="button">Code</a>
+        <a href="https://oliverbansk.github.io/" class="btn btn-sm z-depth-0" role="button">Code</a>
       {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
