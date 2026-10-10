@@ -58,23 +58,13 @@
       {% endif %}
 
       {%- for author in entry.author_array limit: author_array_limit -%}
-        {% assign author_is_self = false %}
+        {%- assign author_is_self = false -%}
         {%- assign author_last_name = author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
         {%- assign author_last_html = author.last | regex_replace: '([*∗†‡§¶‖&^]+)', '<sup>\1</sup>' -%}
-        {% if site.scholar.last_name contains author_last_name %}
-          {% if site.scholar.first_name contains author.first %}
-            {% assign author_is_self = true %}
-          {% endif %}
-        {%- endif -%}
-        {% assign coauthor_url = null %}
-        {%- assign clean_last_name = author_last_name | downcase | remove_accents -%}
-        {% if site.data.coauthors[clean_last_name] %}
-          {%- for coauthor in site.data.coauthors[clean_last_name] -%}
-            {% if coauthor.firstname contains author.first %}
-              {%- assign coauthor_url = coauthor.url -%}
-              {% break %}
-            {% endif %}
-          {% endfor %}
+        {%- if site.scholar.last_name contains author_last_name -%}
+          {%- if site.scholar.first_name contains author.first -%}
+            {%- assign author_is_self = true -%}
+          {%- endif -%}
         {%- endif -%}
 
         {%- if forloop.length > 1 -%}
@@ -90,7 +80,7 @@
           {{- author.first }}
           {{ author_last_html -}}
         {%- endif -%}
-      {% endfor %}
+      {%- endfor -%}
       {%- assign more_authors = author_array_size | minus: author_array_limit -%}
 
       {%- assign more_authors_hide = more_authors | append: ' more author' -%}
@@ -188,7 +178,7 @@
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% elsif entry.arxiv_pending %}
-        <span class="btn btn-sm z-depth-0 disabled" aria-disabled="true">arXiv</span>
+        <a href="#{{ entry.key }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
@@ -215,7 +205,7 @@
       {% elsif entry.video %}
         <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button">Video</a>
       {% elsif entry.video_pending %}
-        <span class="btn btn-sm z-depth-0 disabled" aria-disabled="true">Video</span>
+        <a href="#{{ entry.key }}" class="btn btn-sm z-depth-0" role="button">Video</a>
       {% endif %}
       {% if entry.blog %}
         <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
@@ -223,7 +213,7 @@
       {% if entry.code %}
         <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
       {% elsif entry.code_pending %}
-        <span class="btn btn-sm z-depth-0 disabled" aria-disabled="true">Code</span>
+        <a href="#{{ entry.key }}" class="btn btn-sm z-depth-0" role="button">Code</a>
       {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
