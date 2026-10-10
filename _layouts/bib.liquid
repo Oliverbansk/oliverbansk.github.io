@@ -187,6 +187,8 @@
       {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+      {% elsif entry.arxiv_pending %}
+        <span class="btn btn-sm z-depth-0 disabled" aria-disabled="true">arXiv</span>
       {% endif %}
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
@@ -212,12 +214,16 @@
         <a class="abstract btn btn-sm z-depth-0" role="button">Video</a>
       {% elsif entry.video %}
         <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button">Video</a>
+      {% elsif entry.video_pending %}
+        <span class="btn btn-sm z-depth-0 disabled" aria-disabled="true">Video</span>
       {% endif %}
       {% if entry.blog %}
         <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
       {% endif %}
       {% if entry.code %}
         <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
+      {% elsif entry.code_pending %}
+        <span class="btn btn-sm z-depth-0 disabled" aria-disabled="true">Code</span>
       {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
